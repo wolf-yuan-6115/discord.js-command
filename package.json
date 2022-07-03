@@ -1,0 +1,19 @@
+{
+  "name": "discord.js-lime",
+  "version": "0.0.1-beta",
+  "description": "A simple Discord command manager that support Slash command and Text based command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolf-yuan-6115/discord.js-command.git"
+  },
+  "author": "Wolf yuan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/wolf-yuan-6115/discord.js-command/issues"
+  },
+  "homepage": "https://github.com/wolf-yuan-6115/discord.js-command#readme"
+}
